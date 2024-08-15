@@ -1,6 +1,6 @@
 # lang-code
 
-![Rust](https://github.com/DoumanAsh/lang-code/workflows/Rust/badge.svg?branch=master)
+[![Rust](https://github.com/DoumanAsh/lang-code/actions/workflows/rust.yml/badge.svg)](https://github.com/DoumanAsh/lang-code/actions/workflows/rust.yml)
 [![Crates.io](https://img.shields.io/crates/v/lang-code.svg)](https://crates.io/crates/lang-code)
 [![Documentation](https://docs.rs/lang-code/badge.svg)](https://docs.rs/crate/lang-code/)
 
