@@ -18,3 +18,6 @@ include = [
 [features]
 # Specifies to include language name into data
 lang-name = []
+
+[package.metadata.docs.rs]
+features = ["lang-name"]
